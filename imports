@@ -1,0 +1,3 @@
+import HomePage from './pages/HomePage';
+import AddProductPage from './pages/AddProductPage';
+import EditProductPage from './pages/EditProductPage';
